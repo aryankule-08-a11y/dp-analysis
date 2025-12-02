@@ -1,8 +1,4 @@
-pip install streamlit pandas altair
 
-app.py
-Budget 2014-2025.csv
-streamlit run app.py
 import streamlit as st
 import pandas as pd
 import altair as alt
