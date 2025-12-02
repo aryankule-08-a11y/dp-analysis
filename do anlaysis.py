@@ -1,5 +1,5 @@
 # streamlit_app.py
-pip Install pandas
+pip install pandas
 pip install altair
 pip install streamlit
 
