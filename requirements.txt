@@ -1,0 +1,5 @@
+streamlit>=1.18
+pandas>=1.5
+numpy
+altair
+plotly
